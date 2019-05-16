@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head></head>
+<body background-color:blue>
+<title>this is my html homework </title>
+<h1>how to make homepage</h1>
+<pr>
+<h1> step:1 firstable sign up at git hub </h1>
+ <pr>
+<h1> step 2: download the github</h1> 
+<pr>
+<h1>step 3: copy the UBL in githnub browser</h1> 
+<pr>
+<h1> step 4: and you have to paste the UBL at Clone repository</h1> 
+<pr>
+<h1> step 5: now to have to find githhub file</h1> 
+<pr>
+<h1>step 6 : make a new text.fille</h1> 
+<pr>
+<h1>now you can make a homepage! also you can make with your friends and upload your own homepage</h1> 
+<button>CILKE ME</button>
+<img src="³ª¿µ¸¸2.jpg" alt="youtube.com" width="104" height="142">
+<a href="https://www.youtube.com/channel/UChVswLsVKtH8stAAByNWHuA?view_as=subscriber">
+</body>
+
+
+</html>
